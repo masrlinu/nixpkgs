@@ -5394,6 +5394,11 @@
     githubId = 9020527;
     name = "cryptoluks";
   };
+  cryptomator-cli = {
+    github = "masrlinu";
+    githubId = 5259918;
+    name = "masrlinu";
+  };
   CrystalGamma = {
     email = "nixos@crystalgamma.de";
     github = "CrystalGamma";
